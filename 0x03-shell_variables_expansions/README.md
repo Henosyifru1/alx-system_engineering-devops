@@ -1,1 +1,1 @@
-the first line of describes shebang & second line describe project task
+Firstline define shebang and the second line define project task
