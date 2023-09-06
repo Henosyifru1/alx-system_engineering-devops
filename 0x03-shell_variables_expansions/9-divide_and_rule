@@ -1,3 +1,2 @@
 #!/bin/bash
-echo $((POWER/DIVED
-b
+echo $((POWER/DIVIDE))
